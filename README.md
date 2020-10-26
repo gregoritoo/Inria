@@ -5,8 +5,8 @@ Objectifs compris :
 
 - Déterminer différents profils de comsommation énergétiques lors des différents jobs   
     Classification / Clustering sur des signaux temporelles   
-- Etre capable de prédire l'utilisation enrgétique   
-    Réutilisation des différentes catégories afin de prédire si certain coeurs sont sous exploités afin de pouvoir regrouper les jobs qui consomme peu de ressources.
+- Etre capable de prédire l'utilisation energétique   
+    Réutilisation des différentes catégories afin de prédire si certain coeurs sont sous exploités afin de pouvoir regrouper les jobs qui consomment peu de ressources.
 
 Ce qui est mit en place : 
 ======================== 
