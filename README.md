@@ -25,3 +25,8 @@ Questions :
 ----------
 Types d'aggrégations utilisés pour le débruitage ?
 Utilisation des données cpu ? Corrélation trop forte avec la consommation d'énergie ?
+
+Idée : 
+------ 
+Spectrogramme + CNN
+cluster sur tableau individu / variable sur 3 variables issues de l'arbre => analyse des résultats et ajout de variables si nécessaire
