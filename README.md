@@ -28,5 +28,5 @@ Utilisation des données cpu ? Corrélation trop forte avec la consommation d'é
 
 Idée : 
 ------ 
-Spectrogramme + CNN
-cluster sur tableau individu / variable sur 3 variables issues de l'arbre => analyse des résultats et ajout de variables si nécessaire
+Spectrogramme + CNN  
+clustering sur tableau individu / variable sur 3 variables issues de l'arbre => analyse des résultats et ajout de variables si nécessaire
