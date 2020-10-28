@@ -6,7 +6,7 @@ Objectifs compris :
 - Déterminer différents profils de comsommation énergétiques lors des différents jobs   
     Classification / Clustering sur des signaux temporelles   
 - Etre capable de prédire l'utilisation energétique   
-    Réutilisation des différentes catégories afin de prédire si certain coeurs sont sous exploités afin de pouvoir regrouper les jobs qui consomment peu de ressources.
+    Réutilisation des différentes catégories dans le but de prédire si certain coeurs sont sous exploités afin de pouvoir regrouper les jobs qui consomment peu de ressources.
 
 Ce qui est mit en place : 
 ======================== 
@@ -30,3 +30,12 @@ Idée :
 ------ 
 Spectrogramme + CNN  
 clustering sur tableau individu / variable sur 3 variables issues de l'arbre => analyse des résultats et ajout de variables si nécessaire
+
+Métriques :
+----------- 
+TWED / DTW  :  
+https://arxiv.org/pdf/1401.3973.pdf   
+https://github.com/jzumer/pytwed  
+  
+
+
