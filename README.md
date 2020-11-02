@@ -1,3 +1,5 @@
+##    Projet INRIA    ##
+
 ### Description de l'étude
 Ce projet s'inscrit dans le cadre du Master Spécialisé en Big Data. <br>
 Proposé par l'**INRIA** (*I*nstitut *N*ational de *R*echerche en *I*nformatique et en *A*utomatique), établissement public à caractère scientifique et technologique, ce projet vise la définition et la modélisation des profils de consommations énergétiques dans les **Data Center.**<br>
