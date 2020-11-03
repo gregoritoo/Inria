@@ -7,6 +7,8 @@ Objectifs compris :
     Classification / Clustering sur des signaux temporelles   
 - Etre capable de prédire l'utilisation energétique   
     Réutilisation des différentes catégories dans le but de prédire si certain coeurs sont sous exploités afin de pouvoir regrouper les jobs qui consomment peu de ressources.
+ 
+ - Rappel HPC : http://oar.imag.fr/docs/2.5/user/quickstart.html
 
 Ce qui est mit en place : 
 ======================== 
