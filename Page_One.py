@@ -12,7 +12,7 @@ class Page_one():
 
 
     def count_classes(self):
-        return len(list(classes = os.listdir(self.directory)))
+        return len(list(os.listdir(self.directory)))
 
     def show_classes(self):
         classes = os.listdir(self.directory)
