@@ -60,5 +60,12 @@ CNN (abandonné):
 - Data augmentation en utilisant la méthode SpecAugment (https://arxiv.org/abs/1904.08779)
 - Entrainement d'un CNN en faisant du transfert learning sur un modèle InceptionV3 entrainé sur imageNet (70% d'accuracy sans hyper parameters tunning)
 
+Idées :
+------
+Décomposition en wavelet :
+- https://www.researchgate.net/publication/24188358_Heartbeat_Time_Series_Classification_With_Support_Vector_Machines
 
-
+Kernel based methodes :
+- https://www.cv-foundation.org//openaccess/content_cvpr_workshops_2013/W16/papers/Lorincz_Emotional_Expression_Classification_2013_CVPR_paper.pdf
+- http://ceur-ws.org/Vol-2259/aics_7.pdf
+- http://members.cbio.mines-paristech.fr/~jvert/talks/070608telecom/telecom.pdf
