@@ -69,3 +69,6 @@ Kernel based methodes :
 - https://www.cv-foundation.org//openaccess/content_cvpr_workshops_2013/W16/papers/Lorincz_Emotional_Expression_Classification_2013_CVPR_paper.pdf
 - http://ceur-ws.org/Vol-2259/aics_7.pdf
 - http://members.cbio.mines-paristech.fr/~jvert/talks/070608telecom/telecom.pdf
+
+Extraire plus de features à la main afin de mieux charactériser les signaux 
+- https://tsfresh.readthedocs.io/en/latest/
