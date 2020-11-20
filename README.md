@@ -72,3 +72,6 @@ Kernel based methodes :
 
 Extraire plus de features à la main afin de mieux charactériser les signaux 
 - https://tsfresh.readthedocs.io/en/latest/
+
+Matrix profile 
+- https://www.cs.ucr.edu/~eamonn/PID4481997_extend_Matrix%20Profile_I.pdf
