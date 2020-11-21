@@ -81,12 +81,13 @@ Matrix profile
 - https://www.cs.ucr.edu/~eamonn/PID4481997_extend_Matrix%20Profile_I.pdf
 
 # Semaine 2
+
 Hierachical clustering :
 -----------------------
 - Analyse des résultats et limites (Comparaison avec les signaux labélisés à la main)     
 <b> Voir le notebook python Analyse.ipynb </b>
 
-Random forest sur les charactéristiques extraites des signaux via tsfresh :
+Random forest sur les charactéristiques extraites des signaux via tsfresh:
 --------------------------------------------------------------------------
 - Choix puis extraction de features via tsfresh  
 <b> Voir le notebook python Extraction_de_features.ipynb </b>
