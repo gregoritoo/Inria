@@ -51,6 +51,7 @@ Hierachical clustering :
 - Construction de la matrice de dissimilarité
 - Hierachical clustering (à partir de la matrice de dissimilarité obtenue) avec test des différentes méthode d'aggrégation (average,ward ...)
 - Analyse visuelle des résultats  
+- Extraction des shape des centroides  
 <b>Voir le notebook R clustering.Rmd</b>
 
 CNN (abandonné):
@@ -79,4 +80,22 @@ Matrix profile
 - https://www.cs.ucr.edu/~eamonn/MatrixProfile.html
 - https://www.cs.ucr.edu/~eamonn/PID4481997_extend_Matrix%20Profile_I.pdf
 
-Go to  clustering.html
+# Semaine 2
+Hierachical clustering :
+-----------------------
+- Analyse des résultats et limites (Comparaison avec les signaux labélisés à la main)     
+<b> Voir le notebook python Analyse.ipynb </b>
+
+Random forest sur les charactéristiques extraites des signaux via tsfresh :
+--------------------------------------------------------------------------
+- Choix puis extraction de features via tsfresh  
+<b> Voir le notebook python Extraction_de_features.ipynb </b>
+- Application de random forrest / cross validation / grid search  
+<b> Voir le notebook python Random_forest_on_features.ipynb </b>
+
+Matrices profiles :
+------------------
+- Application, tracé et extraction de pattern via la méthode de matrice profile (https://www.cs.ucr.edu/~eamonn/PID4481997_extend_Matrix%20Profile_I.pdf)  
+<b> Voir le notebook python Matrix_profile.ipynb </b>
+
+
