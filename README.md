@@ -50,7 +50,8 @@ Hierachical clustering :
 - Calcul de la distance entre les séries temporelles grâce à la métrique SBD (Shape Based distance : http://www1.cs.columbia.edu/~jopa/Papers/PaparrizosSIGMOD2015.pdf )
 - Construction de la matrice de dissimilarité
 - Hierachical clustering (à partir de la matrice de dissimilarité obtenue) avec test des différentes méthode d'aggrégation (average,ward ...)
-- Analyse visuelle des résultats
+- Analyse visuelle des résultats  
+<b>Voir le notebook R clustering.Rmd</b>
 
 CNN (abandonné):
 ---
@@ -58,7 +59,8 @@ CNN (abandonné):
 - Labélisation des 797 séries temporelles en 19 classes 
 - Transformation des signaux en spectrogramme
 - Data augmentation en utilisant la méthode SpecAugment (https://arxiv.org/abs/1904.08779)
-- Entrainement d'un CNN en faisant du transfert learning sur un modèle InceptionV3 entrainé sur imageNet (70% d'accuracy sans hyper parameters tunning)
+- Entrainement d'un CNN en faisant du transfert learning sur un modèle InceptionV3 entrainé sur imageNet (70% d'accuracy sans hyper parameters tunning)  
+<b> Voir le notebook python Deep.ipynb </b>
 
 Idées :
 ------
