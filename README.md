@@ -108,3 +108,12 @@ Processus gaussiens :
   - http://www.gaussianprocess.org/gpml/chapters/
   - http://cs229.stanford.edu/section/cs229-gaussian_processes.pdf
   - https://www.youtube.com/watch?v=4vGiHC35j9s
+  - https://github.com/datalad-datasets/machinelearning-books.git
+  - https://betanalpha.github.io/
+  - https://bookdown.org/rbg/surrogates/chap5.html)
+  - https://durrande.shinyapps.io/gp_playground/ 
+  
+ - Essayer de coder des premières approches de processus gaussien en utilisant pymc3
+  - Détecter les changepoints / https://arxiv.org/pdf/0710.3742.pdf / <b> Voir le notebook python Changepoints.ipynb </b>
+  - Coder un premier processus gaussien avec des kernels simples <b> Voir le notebook python Gaussian_learning.ipynb </b>
+  
