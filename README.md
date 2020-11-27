@@ -99,4 +99,12 @@ Matrices profiles :
 - Application, tracé et extraction de pattern via la méthode de matrice profile (https://www.cs.ucr.edu/~eamonn/PID4481997_extend_Matrix%20Profile_I.pdf)  
 <b> Voir le notebook python Matrix_profile.ipynb </b>
 
+# Semaine 3 
 
+Processus gaussiens :
+---------------------
+- Exploration des méthodes 
+  - https://github.com/duvenaud/phd-thesis/blob/master/thesis.pdf
+  - http://www.gaussianprocess.org/gpml/chapters/
+  - http://cs229.stanford.edu/section/cs229-gaussian_processes.pdf
+  - https://www.youtube.com/watch?v=4vGiHC35j9s
