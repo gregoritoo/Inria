@@ -104,6 +104,7 @@ Matrices profiles :
 Processus gaussiens :
 ---------------------
 - Exploration des méthodes 
+  - http://membres-timc.imag.fr/Olivier.Francois/MPA_2013.pdf
   - https://github.com/duvenaud/phd-thesis/blob/master/thesis.pdf
   - http://www.gaussianprocess.org/gpml/chapters/
   - http://cs229.stanford.edu/section/cs229-gaussian_processes.pdf
