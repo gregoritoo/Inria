@@ -115,7 +115,7 @@ Processus gaussiens :
   - https://durrande.shinyapps.io/gp_playground/ 
   
  - Essayer de coder des premières approches de processus gaussien en utilisant pymc3
-  - Détecter les changepoints / https://arxiv.org/pdf/0710.3742.pdf / <b> Voir le notebook python Changepoints.ipynb </b>
+  - Détecter les changepoints / https://arxiv.org/pdf/0710.3742.pdf / https://arxiv.org/pdf/1801.00718.pdf <b> Voir le notebook python Changepoints.ipynb </b>
   - Coder un premier processus gaussien avec des kernels simples <b> Voir le notebook python Gaussian_learning.ipynb </b>
   
   - Gradient descent probleme de determinant nul
