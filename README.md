@@ -118,3 +118,6 @@ Processus gaussiens :
   - Détecter les changepoints / https://arxiv.org/pdf/0710.3742.pdf / <b> Voir le notebook python Changepoints.ipynb </b>
   - Coder un premier processus gaussien avec des kernels simples <b> Voir le notebook python Gaussian_learning.ipynb </b>
   
+  - Gradient descent probleme de determinant nul
+    https://hal.archives-ouvertes.fr/hal-01264192v4/document
+  
