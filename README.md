@@ -120,4 +120,21 @@ Processus gaussiens :
   
   - Gradient descent probleme de determinant nul
     https://hal.archives-ouvertes.fr/hal-01264192v4/document
+    
+# Semaine 4
+
+Processus gaussien :
+-------------------- 
+   - Abandon implémentation au profit de  l'implémentation https://github.com/T-Flet/GPy-ABCD
+   - Analyse des résultats
+    
+Analyse des clusters obtenus à la main :
+----------------------------------------
+   - Voir Analyse_cluster.ipynb
+   - Res à décire
+    
+1D CNN + Grad-CAM :
+------------------ 
+   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6814172/
+   - Implémentation dans notebook 1DCNN.ipynb
   
